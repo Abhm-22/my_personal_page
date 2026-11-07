@@ -1,0 +1,50 @@
+/*seccion de presentacion*/
+.primeraseccion {
+    background-color: rgb(0, 5, 35);
+    text-align: center;
+}
+.h1 {
+    color:rgb(0, 145, 167);
+    margin-top: 120px; 
+    font-size: 50px; 
+    font-family: sans-serif;
+   font-style: initial;
+}
+.titulo {
+    font-size: 100px;
+}
+.mypersonal {
+    color: white;
+}
+.PORTAFOLIO {
+    color:rgb(0, 145, 167);
+    font-size:70px;
+    margin-top: 100px;
+    font-family:sans-serif ;
+    margin-bottom: 100px;   
+}
+.pp {
+    color: white;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+
+
+/*seccion de botones*/
+.botones {
+    margin-top: 130px;
+    margin-bottom: 100px;
+}
+
+.botons {
+    color: white;
+}
+
+
+/*seccion de formulario*/
+.form {
+    color: white;   
+    text-align: center;
+}
+
